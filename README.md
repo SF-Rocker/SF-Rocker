@@ -2,7 +2,7 @@
 
 👋 Hi, I’m TJ (Rocker)  
 👀 Focused on Linux system administration and Docker automation  
-🌱 Learning Debian, Fedora, and Raspberry Pi (headless setups + SSH)  
+🌱 Learning Debian, Fedora, and Raspberry Pi (headless setups + SSH). Exploring Python with virtual environments and beginning Rust.  
 💞️ Collaborating on Linux configs and Pi projects  
 📫 Contact: tjpendley@myyahoo.com | tjpendley0@gmail.com  
 😄 Pronouns: he/him  

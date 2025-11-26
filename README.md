@@ -1,8 +1,7 @@
-- 👋 Hi, I’m TJ (also known as Rocker)
-- 👀 Interested in Linux system administration and automation
-- 🌱 Currently learning Debian and Fedora server management
-- 💞️ Open to collaborating on open-source projects involving Linux configs and Raspberry Pi setups
-- 🖥️ Recently forked a project to add architecture support on Manjaro Arch for the Orange Pi 800. Since then, I’ve been exploring the Raspberry Pi 5 and Raspberry Pi Zero 2W for basic computing, headless setups, and SSH.
-- 📫 Reach me at: tjpendley@myyahoo.com | tjpendley0@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love computers and enjoy solving problems through continuous learning
+👋 Hi, I’m TJ (Rocker)  
+👀 Linux system administration & Docker automation  
+🌱 Learning Debian, Fedora, and Raspberry Pi (headless + SSH)  
+💞️ Collaborating on Linux configs & Pi setups  
+📫 Contact: tjpendley@myyahoo.com | tjpendley0@gmail.com  
+😄 Pronouns: he/him  
+⚡ Fun fact: I love computers and always fix the problem

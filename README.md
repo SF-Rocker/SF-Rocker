@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @SF-Rocker
-- 👀 I’m interested in Learning how to program .
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-SF-Rocker/SF-Rocker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m TJ (known as Rocker)
+- 👀 I’m interested in Linux system administration and automation
+- 🌱 I’m currently learning Debian and Fedora server management
+- 💞️ I’m looking to collaborate on open-source projects related to Linux configs and Raspberry Pi setups
+- 📫 How to reach me: tjpendley@myyahoo.com | tjpendley0@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I Love computers, and will learn anything, and get the problem fixed.
